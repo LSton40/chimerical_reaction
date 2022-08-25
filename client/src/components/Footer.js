@@ -12,7 +12,7 @@ function Footer() {
                 <a href="https://indiana.academia.edu/LoganSutton">Academia.edu</a>
                 <a href="https://www.researchgate.net/profile/Logan-Sutton-2">ResearchGate</a>
                 <a href="https://goo.gl/maps/8bLAQPABRX8B5VJC9" title="Arikara Cultural Center 100 Sahnish Dr, Roseglen, ND 58775">Address:</a>
-                <p>Arikara Cultural Center, 100 Sahnish Dr Roseglen, ND 58775</p>
+                <p>Arikara Cultural Center,<br />100 Sahnish Dr Roseglen, ND 58775</p>
             </div>
         </footer>
     )
